@@ -1,11 +1,11 @@
 from modules import *
 from tkinter import *
 
-###############################################
-#
-#   GSA Advantage product scraper  
-#
-###############################################
+################################
+
+#   GSA Advantage Web Crawler
+
+  #################################
 
 def callback():
   a = e.get()
